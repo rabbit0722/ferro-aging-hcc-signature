@@ -1,0 +1,18 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user
+
+# Python
+__pycache__/
+*.pyc
+
+# 数据与产出（不入库，脚本在本地运行后生成）
+analysis_out/hcc_out/
+analysis_out/data/
+analysis_out/step01/
+
+# 系统
+.DS_Store
+Thumbs.db
